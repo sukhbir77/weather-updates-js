@@ -19,4 +19,4 @@ The Live Weather Update Website is designed to offer users instant access to acc
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Weather-Website.git
+   git clone https://github.com/sukhbir77/weather-updates-js.git
